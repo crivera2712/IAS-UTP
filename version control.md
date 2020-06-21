@@ -1,3 +1,8 @@
+
+# Version 0.0.5
+
+-   Fixed sidebar at inicio.html
+
 # Version 0.0.4
 
 - Attempt to fix redirect at login page
