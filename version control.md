@@ -1,5 +1,9 @@
+# Version 0.0.4
 
-# Version 0.0.2
+- Attempt to fix redirect at login page
+
+
+# Version 0.0.3
 
 -   Fixed index.html not properly working
 
