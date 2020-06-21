@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Sistema de Inscripción y Asistencia a Eventos</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel='stylesheet' type='text/css' href='../CSS/sidenav.css' />
+    <link rel='stylesheet' type='text/css' href='../CSS/footer.css' />
+    <link rel='stylesheet' type='text/css' href='../CSS/cuenta.css' />
+</head>
+
+<body>
+    <!-- Side navigation -->
+    <div class="sidenav">
+        <a href="inicio.html">Inicio</a>
+        <a href="eventos.html">Eventos</a>
+        <a href="miseventos.html">Mis Eventos</a>
+        <a href="cuenta.html">Mi Cuenta</a>
+    </div>
+
+    <!-- Page content -->
+    <div class="main">
+
+        <div class="titulo">
+            <h1>Cuenta de Usuario</h1>
+        </div>
+        <div class="contenido">
+            <table>
+                <thead>
+                    <th><h4>Mis Datos Personales</h4></th>
+                    <th><img src="../img/profile-girl.jpg" alt="Imagen de Perfil del Usuario"></th>
+                </thead>
+            </table>
+            <form class="formulario" action="cuenta.html" method="GET">
+                <label>Nombre: </label><br>
+                <input type="text" placeholder="María"></input><br>
+                <label>Apellido:</label><br>
+                <input type="text" placeholder="Fernández"></input><br>
+                <label>Cédula</label><br>
+                <input type="text" placeholder="8-522-1891"></input><br>
+                <br>
+                <br>
+                <h4>Cambiar Contraseña</h4>
+                <label>Contraseña Actual:</label><br>
+                <input type="password" name="">
+                <br>
+                <label>Contraseña Nueva:</label>
+                <br>
+                <input type="password" name="">
+                <br>
+                <label>Repetir Contraseña:</label>
+                <br>
+                <input type="password" name="">
+                <br>
+                <br>
+                
+                <input type="submit" name="Enviar">
+            </form>
+        </div>

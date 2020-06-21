@@ -5,8 +5,39 @@
 
 .contenido {
     padding-top: 50pt;
+
+}
+
+.Tabla {
+    padding-top: 30pt;
+    padding-right: 20pt;
 }
 
 .accionrecomendada {
-    padding-top: 10%;
+    padding-top: 10pt;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+  
+  th {
+    text-align: center;
+    background-color: #9dbcff;
+  }
+  td {
+    height: 50px;
+    vertical-align: center;
+    overflow: visible;
+  }
+
+  th, td {
+      padding: 15px;
+  }
+  table {
+      width: 100%;
+  }
+
+.TextoMisEventos {
+    padding-top: 30px;
 }

@@ -1,0 +1,32 @@
+.main {
+    margin-left: 15%;
+    padding-top: 30pt;
+}
+
+.contenido {
+    padding-top: 50pt;
+
+}
+
+.Tabla {
+    padding-top: 30pt;
+    padding-right: 20pt;
+}
+
+.accionrecomendada {
+    padding-top: 10pt;
+}
+
+.Imagen {
+    float: right;
+    width: 300px;
+    padding: 10px;
+    margin-right: 100pt;
+}
+table{
+    width: 100%;
+}
+img {
+    height: 100px;
+    width: 100px;
+}

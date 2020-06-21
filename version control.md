@@ -1,4 +1,10 @@
 
+# Version 0.0.7
+
+-   Created miseventos.html
+-   Created cuenta.html
+-   Stablished CSS for cuenta.html
+-   First layout for cuenta.html
 # Version 0.0.6
 
 -   Stablished a separate CSS for the global sidebar
