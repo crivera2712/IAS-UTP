@@ -1,3 +1,8 @@
+
+# Version 0.0.2
+
+-   Fixed index.html not properly working
+
 # Version 0.0.2
 
 -   Added a changelog
