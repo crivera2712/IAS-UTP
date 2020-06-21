@@ -1,4 +1,11 @@
 
+# Version 0.0.6
+
+-   Stablished a separate CSS for the global sidebar
+-   Created eventos.html
+-   Stablished fixed footers
+-   Created global footer css
+
 # Version 0.0.5
 
 -   Fixed sidebar at inicio.html
